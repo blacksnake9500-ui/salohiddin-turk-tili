@@ -355,6 +355,9 @@ nav .container button:active {
   top: 20px;
   z-index: -2;
 }
+.s4 .container:hover .circle{
+  animation: circle .9s linear infinite;
+}
 footer {
   background-color: #f84646;
   color: white;
